@@ -1,0 +1,24 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+.vscode
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.env
+venv/
+
+# Docs
+README.md
+
+# Local files
+api-requests.http
+pytest.ini
+k8s/
